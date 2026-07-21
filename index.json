@@ -4,7 +4,7 @@
     "description": "Meteor75 Pro 40mm optimized tune",
     "author": "Carson Muehlstedt",
     "category": "TUNE",
-    "path": "presets/tunes/Meteor75_Pro_GF40mm.json",
+    "path": "Meteor75Pro/Main.json",
     "firmware": "4.5"
   }
 ]
