@@ -13,7 +13,7 @@
     "indoor",
     "freestyle"
   ],
-  "commands": [
+  "cli": [
     "feature TELEMETRY",
     "feature OSD",
 
