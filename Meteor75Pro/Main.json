@@ -1,8 +1,16 @@
 {
-  "name": "Meteor75 Pro Test Tune",
-  "description": "Test preset",
-  "author": "Carson Muehlstedt",
-  "cli": [
-    "set dyn_notch_count = 1"
+  "sourceVersion": {
+    "major": 1,
+    "minor": 0
+  },
+  "presets": [
+    {
+      "name": "BetaFPV Meteor75 Pro GF 40mm Tune",
+      "description": "Meteor75 Pro 40mm optimized tune",
+      "author": "Carson Muehlstedt",
+      "category": "TUNE",
+      "path": "Meteor75Pro/Main.json",
+      "firmware": "4.5"
+    }
   ]
 }
