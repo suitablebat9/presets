@@ -1,5 +1,8 @@
 {
-  "version": "1.0",
+  "sourceVersion": {
+    "major": 1,
+    "minor": 0
+  },
   "presets": [
     {
       "name": "BetaFPV Meteor75 Pro GF 40mm Tune",
