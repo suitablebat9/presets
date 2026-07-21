@@ -1,16 +1,13 @@
 {
-  "sourceVersion": {
-    "major": 1,
-    "minor": 0
-  },
-  "presets": [
-    {
-      "name": "BetaFPV Meteor75 Pro GF 40mm Tune",
-      "description": "Meteor75 Pro 40mm optimized tune",
-      "author": "Carson Muehlstedt",
-      "category": "TUNE",
-      "path": "Meteor75Pro/Main.json",
-      "firmware": "4.5"
-    }
+  "name": "BetaFPV Meteor75 Pro GF 40mm Tune",
+  "description": "Meteor75 Pro 40mm optimized tune",
+  "author": "Carson Muehlstedt",
+  "version": "1.0",
+  "cli": [
+    "set gyro_lpf1_static_hz = 0",
+    "set dyn_notch_count = 1",
+    "set p_pitch = 64",
+    "set i_pitch = 103",
+    "set d_pitch = 67"
   ]
 }
